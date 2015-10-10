@@ -7,3 +7,4 @@ Please make a pull request to add documents which are in the public domain or th
 Please also contribute documents in Languges Other than English.
 
 # Recursos Tecnicos Para Projectos de Ingenieros Sin Fronteras 
+Por favor generar un "pull request" para subir documentos que estas en el dominio publico o que usted desea donarle a Ingenieros Sin Fronteras. Necesitamos documentos profesionales con ejemplos de disenos tecnicos, dibujos, especificaciones, estandards, manuales de operacion & mantenimiento y cualquier otros recursos pertinentes. 
